@@ -1,0 +1,38 @@
+/* classe */
+.btn{
+    text-decoration: none; 
+    /* tira o sublinhado */
+    padding: 13px 25px;
+    /* Faz o preenchimento */
+    border-radius: 3px;
+    /* bordas arredondadas */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    /* fonte do texto */
+    font-weight: 800;
+    /* espessura do texto */
+    box-shadow: 5px 3px 3px rgb(118, 118, 118);  
+     /* sombra do elemento  */
+}
+
+/* outra classe */
+.univali{
+    background-color: #0a3f74;
+    /* cor de fundo */
+    color: white;
+    /* cor do texto */
+}
+
+/* classe com efeito de passar o mouse */
+.univali:hover{
+    background-color: #0e5398;
+    padding: 14px 26px;
+}
+
+div h1 {
+    color: #0a3f74;
+}
+
+#meuH1{
+    color: #b3530d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
